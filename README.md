@@ -76,12 +76,12 @@ Yash Bhosle
 ## Screenshots
 
 ### Executive Overview
-![Executive Overview](screenshots/01_Executive_Overview.png)
+![Executive Overview](screenshots/screenshot1.png)
 
 ### Category Deep Dive
-![Category Deep Dive](screenshots/02_Category_Deep_Dive.png)
+![Category Deep Dive](screenshots/screenshot2.png)
 
 ### Metric Definitions
-![Metric Definitions](screenshots/03_Metric_Definitions.png)
+![Metric Definitions](screenshots/screenshot3.png)
 
 
