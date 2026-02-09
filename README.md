@@ -84,5 +84,3 @@ Yash Bhosle
 ### Metric Definitions
 ![Metric Definitions](screenshots/screenshot3.png)
 
-
-
