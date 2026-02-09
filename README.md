@@ -67,7 +67,10 @@ Source: Kaggle - **Indian FMCG Retail Sales, Customer & Inventory (2024)**
 - DAX (basic measures: `SUM`, `DISTINCTCOUNT`, `DIVIDE`)
 - Slicers, cards, line chart, donut charts, bar charts, map visual
 - Bookmarks + button for reset functionality
-  
+
+## How to open the PBIX
+- Download → open in Power BI Desktop → use **City slicer** → reset
+    
 ## Author
 Yash Bhosle 
 | Email: yashbhosle.work@gmail.com
