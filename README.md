@@ -71,7 +71,17 @@ Source: Kaggle — **Indian FMCG Retail Sales, Customer & Inventory (2024)**
   
 ## Author
 Yash Bhosle 
-Email: yashbhosle.work@gmail.com
+| Email: yashbhosle.work@gmail.com
 
-## Screenstots
+## Screenshots
+
+### Executive Overview
+![Executive Overview](screenshots/01_Executive_Overview.png)
+
+### Category Deep Dive
+![Category Deep Dive](screenshots/02_Category_Deep_Dive.png)
+
+### Metric Definitions
+![Metric Definitions](screenshots/03_Metric_Definitions.png)
+
 
