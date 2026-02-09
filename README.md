@@ -52,15 +52,14 @@ These are the main measures used in the report:
 4. Go to **Category Deep Dive** to identify what’s driving the numbers.
 5. Use **Metric Definitions** if you want to understand how KPIs are calculated.
 
-## Key insights (example takeaways)
-- Overall performance can be tracked quickly using Revenue, Profit, Margin %, Orders, and AOV.
-- Month-wise trend highlights peak and low periods across the year.
-- City-level map shows where most revenue is coming from.
-- Channel and payment mode visuals help understand customer purchase behavior.
-- Deep dive page helps compare categories and brands to identify top contributors.
+## Key Insights (from report)
+- Strong overall profitability at **20.02% margin** with **₹ 3.93 Cr revenue**.
+- Category comparison shows **Fruits lead revenue**, while **Grocery leads profit**.
+- **ITC** is the top brand by revenue in the deep-dive view.
+- Channel and payment mix visuals help understand purchasing behavior (Top: Omnichannel, UPI).
 
 ## Dataset
-Source: Kaggle — **Indian FMCG Retail Sales, Customer & Inventory (2024)**
+Source: Kaggle - **Indian FMCG Retail Sales, Customer & Inventory (2024)**
 
 ## Tools used
 - **Power BI Desktop**
